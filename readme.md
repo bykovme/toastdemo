@@ -7,4 +7,4 @@ More details can be found [here](https://bykov.tech/2016/10/17/toast-message-for
 ## Demo screenshots
 
 ![Toast Demo Android](https://bykovtech.files.wordpress.com/2016/10/toastdemo_android.png?w=372&h=612)
-
+![Toast Demo iOS](https://bykovtech.files.wordpress.com/2016/10/toastdemo_ios.png?w=350&h=612)
